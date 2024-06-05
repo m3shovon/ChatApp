@@ -1,0 +1,19 @@
+mysqlclient
+djangorestframework
+django-filter
+channels
+channels-redis
+pytz
+django
+Markdown 
+psycopg2
+
+# USER
+# admin
+# admin123
+
+# Siam
+# siam123
+
+# Mufrid
+# mufrid123
